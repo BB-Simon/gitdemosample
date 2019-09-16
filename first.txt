@@ -1,1 +1,2 @@
 we are learning git...!
+we have compeleted our first commit, it's so amazing!
